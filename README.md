@@ -121,6 +121,15 @@ It includes a user-controlled stop mechanism to cease packet capture when desire
 
 - Verify that key packet details (IP addresses, protocols, etc.) are displayed.
 
+***OUTPUT***:
+![Image](https://github.com/user-attachments/assets/f4bd4830-c602-4fcd-8bd7-f7e36f803040)
+![Image](https://github.com/user-attachments/assets/42240933-c126-4f1a-8493-6ef6319bde1c)
+![Image](https://github.com/user-attachments/assets/0feb0dcb-1748-40c7-83af-89b572934215)
+![Image](https://github.com/user-attachments/assets/626e2298-4578-4b3f-942d-7134f7a4963a)
+![Image](https://github.com/user-attachments/assets/72ec41f9-2109-4e9c-968b-5e85e2033f58)
+![Image](https://github.com/user-attachments/assets/0bc1d824-f365-4752-8571-c9513c5f14b8)
+![Image](https://github.com/user-attachments/assets/f8088319-0811-4b98-a5b9-f1791900df30)
+
 ***FINAL THOUGHTS***:
 
 This toolkit serves as a solid foundation for penetration testing, whether for learning, internal security testing, or ethical hacking. It strikes a balance between functionality, ease of use, and expandability, making it a great choice for both beginners and experienced testers.
