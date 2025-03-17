@@ -1,0 +1,7 @@
+socket
+threading
+tkinter
+requests
+Flask
+itertools
+scapy
